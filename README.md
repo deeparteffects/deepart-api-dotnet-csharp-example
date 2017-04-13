@@ -10,4 +10,4 @@ using Deeparteffects.Sdk;
 using Deeparteffects.Sdk.Model;
 ```
 
-<img src="./Screenshot.png" alt="0" align="center" />
+<img src="./Screenshot.PNG" alt="0" align="center" />
